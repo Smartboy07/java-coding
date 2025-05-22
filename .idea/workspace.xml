@@ -1,26 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2f31837b-4ee2-4bb3-91ae-0a9e1e7cb57d" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/codepractice.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Anagram.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ArraysProblems.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/FindMaxOrMin.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/FrequencyOfChar.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/KthLargestElement.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MaxSumOfSubArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/RecursiveSum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/RotateArrayToRight.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SubArrayForGivenSum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ValidParentheses.java" afterDir="false" />
+    <list default="true" id="2f31837b-4ee2-4bb3-91ae-0a9e1e7cb57d" name="Changes" comment="Coding Practice of Java">
+      <change afterPath="$PROJECT_DIR$/src/EvenAndOddUsingThread.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/StringCompressor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/arrayproblems/AnagramIndices.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/arrayproblems/FindIndexOfTwoSum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/arrayproblems/FindIndiciesOfTargeSum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/arrayproblems/FindMaxElement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/arrayproblems/FindMaxSum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/arrayproblems/FindTheMissingNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/arrayproblems/FirstDuplicateElement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/arrayproblems/IsArraySortedProperly.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/arrayproblems/MergeTwoSortedArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/arrayproblems/MoveAllZeroToEnd.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/arrayproblems/ReverseArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/arrayproblems/TwoSumIndices.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,48 +48,67 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "last_opened_file_path": "D:/MyLearnings/Java/codepractice",
-    "project.structure.last.edited": "Modules",
-    "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.0"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;SONARLINT_PRECOMMIT_ANALYSIS&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/MyLearnings/Java/codepractice&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;
   }
-}]]></component>
-  <component name="RunManager" selected="Application.KthLargestElement">
-    <configuration name="Anagram" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Anagram" />
+}</component>
+  <component name="RunManager" selected="Application.MergeTwoSortedArray">
+    <configuration name="AnagramIndices" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="arrayproblems.AnagramIndices" />
+      <module name="codepractice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="arrayproblems.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EvenAndOddUsingThread" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="EvenAndOddUsingThread" />
       <module name="codepractice" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FrequencyOfChar" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="FrequencyOfChar" />
+    <configuration name="FindIndexOfTwoSum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="arrayproblems.FindIndexOfTwoSum" />
       <module name="codepractice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="arrayproblems.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="KthLargestElement" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="KthLargestElement" />
+    <configuration name="MergeTwoSortedArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="arrayproblems.MergeTwoSortedArray" />
       <module name="codepractice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="arrayproblems.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="RotateArrayToRight" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="RotateArrayToRight" />
-      <module name="codepractice" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="SubArrayForGivenSum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="SubArrayForGivenSum" />
+    <configuration name="StringCompressor" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="StringCompressor" />
       <module name="codepractice" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -101,11 +116,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.KthLargestElement" />
-        <item itemvalue="Application.Anagram" />
-        <item itemvalue="Application.RotateArrayToRight" />
-        <item itemvalue="Application.SubArrayForGivenSum" />
-        <item itemvalue="Application.FrequencyOfChar" />
+        <item itemvalue="Application.MergeTwoSortedArray" />
+        <item itemvalue="Application.FindIndexOfTwoSum" />
+        <item itemvalue="Application.AnagramIndices" />
+        <item itemvalue="Application.StringCompressor" />
+        <item itemvalue="Application.EvenAndOddUsingThread" />
       </list>
     </recent_temporary>
   </component>
@@ -118,6 +133,21 @@
       <option name="presentableId" value="Default" />
       <updated>1744471139217</updated>
     </task>
+    <task id="LOCAL-00001" summary="Coding Practice of Java">
+      <created>1746626909909</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1746626909909</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Coding Practice of Java">
+      <created>1747327728716</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1747327728716</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -130,6 +160,10 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Coding Practice of Java" />
+    <option name="LAST_COMMIT_MESSAGE" value="Coding Practice of Java" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -148,6 +182,21 @@
           <url>file://$PROJECT_DIR$/src/FindMaxOrMin.java</url>
           <line>16</line>
           <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/arrayproblems/MergeTwoSortedArray.java</url>
+          <line>20</line>
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/arrayproblems/MergeTwoSortedArray.java</url>
+          <line>22</line>
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/arrayproblems/AnagramIndices.java</url>
+          <line>6</line>
+          <option name="timeStamp" value="11" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
